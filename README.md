@@ -4,7 +4,7 @@ O botão possui um efeito de respiração simples e uma coloração em fade(degr
 
 Descrição do Projeto:
 A ideia principal deste projeto é ofecer um botão simples, e colocar a prática em dia!
-A animação aplicada é um efeito de "respiração", onde o botão parece crescer levemente quando o cursor está sobre ele.
+A animação aplicada é um efeito de "respiração", onde o botão parece crescer levemente como se estivesse respirando.
 
 Tecnologia Utilizadas:
 HTML e CSS
